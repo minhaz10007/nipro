@@ -1,0 +1,424 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/*common start*/
+.c_padd{
+    padding: 0 0 40px;
+}
+/*header start*/
+header {
+    padding: 10px 0;
+}
+.logo {
+    font-size: 22px;
+}
+.ntgl {
+    font-size: 15px;
+}
+.menu ul li a {
+    margin-top: 3px;
+    padding: 0 !important;
+}
+.ddm{
+    padding: 5px 5px;
+    width: 260px;
+}
+.ddm[data-bs-popper] {
+    top: 35px;
+    left: 0;
+}
+.d_input{
+    height: 30px;
+}
+.d_btn{
+    height: 30px;
+}
+/*slider start*/
+.s_item{
+    margin: 70px 0 70px;
+    text-align: center;
+}
+.s_item h1 {
+    font-size: 40px;
+}
+.s_item p {
+    padding: 0 5px;
+    margin: 35px 0 45px;
+}
+.c_btn {
+    width: 160px;
+    height: 40px;
+}
+/*welcome start*/
+.c_shape {
+    height: 35px;
+}
+.c_title h1{
+    margin: 5px 0 20px;
+    font-size: 25px;
+}
+.w_p p{
+    line-height: 24px;
+}
+/*about start*/
+.a_details {
+    text-align: center;
+}
+.a_h1 {
+    font-size: 27px;
+}
+.a_p {
+    margin: 20px 0 25px;
+}
+/*protfolio start*/
+.pnav {
+    margin: 0 1px 0 !important;
+}
+.p_btn {
+    padding: 6px;
+    font-size: 13px;
+}
+/*nipro service start*/
+.n_ss {
+    margin-top: 20px;
+}
+.nss_p {
+    padding-bottom: 15px;
+}
+/*employee start*/
+.p_title {
+    padding: 15px 15px;
+}
+.p_title h2 {
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+.pp_hover {
+    top: 50px;
+}
+.pp_icon {
+    padding: 11px 13px;
+    font-size: 26px;
+}
+/*price start*/
+.pricing_table {
+    margin-top: 30px;
+}
+.pt_h2 {
+    padding: 25px 0;
+    font-size: 29px;
+}
+.pt_li {
+    padding-bottom: 15px;
+}
+.pt_btn {
+    padding: 15px 30px 15px 25px;
+}
+/*sale start*/
+.sale_h1 {
+    padding: 0 55px 15px;
+    text-align: center;
+}
+.sale_button {
+    text-align: center;
+}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*common start*/
+.c_padd{
+    padding: 0 0 40px;
+}
+/*header start*/
+header {
+    padding: 10px 0;
+}
+.logo {
+    font-size: 25px;
+}
+.ntgl {
+    font-size: 17px;
+}
+.menu ul li a {
+    margin-top: 3px;
+    padding: 0 !important;
+}
+.ddm{
+    padding: 7px 7px;
+}
+.ddm[data-bs-popper] {
+    top: -26px;
+    left: 65px;
+}
+.d_input{
+    height: 35px;
+}
+.d_btn{
+    height: 35px;
+}
+/*slider start*/
+.s_item{
+    margin: 70px 0 70px;
+}
+.s_item h1 {
+    font-size: 42px;
+}
+.s_item p {
+    padding-right: 38px;
+    margin: 40px 0 50px;
+}
+.c_btn {
+    width: 160px;
+    height: 40px;
+}
+/*welcome start*/
+.c_shape {
+    height: 40px;
+}
+.c_title h1{
+    margin: 10px 0 30px;
+    font-size: 28px;
+}
+.w_p p{
+    line-height: 25px;
+}
+/*about start*/
+.a_h1 {
+    font-size: 27px;
+}
+.a_p {
+    margin: 20px 0 25px;
+}
+/*protfolio start*/
+.pnav {
+    margin: 0 40px 5px !important;
+}
+/*nipro service start*/
+.n_ss {
+    margin-top: 20px;
+}
+.nss_p {
+    padding-bottom: 15px;
+}
+/*employee start*/
+.p_title {
+    padding: 15px 15px;
+}
+.p_title h2 {
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+.pp_hover {
+    top: 35px;
+}
+.pp_icon {
+    padding: 10px 12px;
+    font-size: 25px;
+}
+/*price start*/
+.pricing_table {
+    margin-top: 30px;
+}
+.pt_h2 {
+    padding: 25px 0;
+    font-size: 29px;
+}
+.pt_li {
+    padding-bottom: 15px;
+}
+.pt_btn {
+    padding: 15px 30px 15px 25px;
+}
+.sale_btn {
+    width: 114px;
+}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*common start*/
+.c_padd{
+    padding: 0 0 70px;
+}
+/*header start*/
+header {
+    padding: 15px 0;
+}
+.logo {
+    font-size: 27px;
+}
+.menu ul li a {
+    margin-top: 5px;
+    padding: 0 !important;
+}
+.ddm[data-bs-popper] {
+    top: -26px;
+    left: 65px;
+}
+/*slider start*/
+.s_item{
+    margin: 90px 0 90px;
+}
+.s_item h1 {
+    font-size: 42px;
+}
+.s_item p {
+    padding-right: 0;
+    margin: 45px 0 55px;
+}
+.c_btn {
+    width: 180px;
+    height: 45px;
+}
+/*welcome start*/
+.c_shape {
+    height: 45px;
+}
+.c_title h1{
+    margin: 15px 0 35px;
+    font-size: 27px;
+}
+.s_service {
+    padding: 70px 32px 30px;
+}
+/*about start*/
+.a_p {
+    margin: 25px 0 30px;
+}
+/*protfolio start*/
+.pnav {
+    margin: 0 130px 10px !important;
+}
+/*nipro service start*/
+.n_ss {
+    margin-top: 25px;
+}
+.nss_p {
+    padding-bottom: 20px;
+}
+/*employee start*/
+.p_title {
+    padding: 15px 25px;
+}
+.p_title h2 {
+    margin-bottom: 10px;
+}
+/*price start*/
+.pricing_table {
+    margin-top: 40px;
+}
+.pt_li {
+    padding-bottom: 15px;
+}
+/*sale start*/
+.sale_btn {
+    width: 155px;
+}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*slider start*/
+.s_item{
+    margin: 180px 0 180px;
+}
+.s_item h1 {
+    font-size: 50px;
+}
+.s_item p {
+    padding-right: 0;
+}
+.c_btn {
+    width: 180px;
+    height: 45px;
+}
+/*employee start*/
+.p_title {
+    padding: 15px 10px;
+}
+.p_title h2 {
+    font-size: 17px;
+}
+.pp_hover {
+    top: 30px;
+}
+.pp_icon {
+    padding: 10px 12px;
+    font-size: 21px;
+}
+/*price start*/
+.pt_h2 {
+    font-size: 29px;
+}
+.pt_li {
+    padding-bottom: 20px;
+}
+.pt_btn {
+    padding: 15px 30px 15px 25px;
+}
+/*sale start*/
+.sale_btn {
+    width: 140px;
+}
+}
+
+/* Extra large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*slider start*/
+.s_item h1 {
+    font-size: 59px;
+}
+.s_item p {
+    padding-right: 10px;
+}
+/*about start*/
+.a_p {
+    margin: 30px 0 40px;
+    line-height: 28px;
+}
+/*protfolio start*/
+.pnav {
+    margin: 0 340px 20px !important;
+}
+/*employee start*/
+.p_title {
+    padding: 15px 25px;
+}
+.pp_hover {
+    top: 40px;
+}
+.pp_icon {
+    padding: 11px 13px;
+    font-size: 25px;
+}
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+/*welcome*/
+.s_service{
+    margin-top: 60px;
+    padding: 70px 25px 40px;
+}
+.s_icon{
+    margin: -91px auto 0;
+}
+.ss_h2{
+    padding:40px 0 20px;
+}
+.ss_p{
+    padding: 20px 0 25px;
+}
+/*about start*/
+.a_h1 {
+    font-size: 35px;
+}
+.a_p {
+    margin: 50px 0 60px;
+    line-height: 28px;
+}
+/*protfolio start*/
+.pnav {
+    margin: 0 425px 20px !important;
+}
+}
